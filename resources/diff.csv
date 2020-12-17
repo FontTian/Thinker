@@ -1,0 +1,16 @@
+AirTemperatureMin,-1
+AirTemperatureMax,1
+AirHumidityMin,-1
+AirHumidityMax,1
+CO2ConcentrationMin,-2
+CO2ConcentrationMax,3
+SoilTemperatureMin,-0.41
+SoilTemperatureMax,0.41
+SoilMoistureMin,-1.3
+SoilMoistureMax,1.3
+SoilPHMin,-0.5
+SoilPHMax,0.5
+SoilConductivityMin,-50
+SoilConductivityMax,50
+AtmosphericPressureMin,-0.1
+AtmosphericPressureMax,0.1

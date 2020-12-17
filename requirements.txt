@@ -1,0 +1,12 @@
+redis==3.5.3
+pathlib==1.0.1
+requests==2.25.1
+
+Flask==1.1.2
+gevent==20.9.0
+
+uvicorn==0.13.1
+fastapi==0.62.0
+werkzeug~=1.0.1
+pydantic~=1.7.3
+joblib~=1.0.0
